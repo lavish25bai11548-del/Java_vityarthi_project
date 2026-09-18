@@ -284,6 +284,4 @@ git push -u origin main
 - **Developer:** FoulTarnished06 (Sagee)
 - **Course:** Computer Science & Engineering / Advanced Java Programming
 - **License:** Open for academic, educational, and learning purposes.
-#   J a v a _ v i t y a r t h i _ p r o j e c t  
- #   J a v a _ v i t y a r t h i _ p r o j e c t  
- 
+#
