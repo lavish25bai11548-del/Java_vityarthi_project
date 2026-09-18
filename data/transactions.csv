@@ -1,0 +1,6 @@
+id,accountNumber,type,amount,balanceAfter,timestamp,description
+"TXN-A1B2C3D4","ACC-1001","DEPOSIT",1500.00,1500.00,"2026-09-17 10:00:00","Initial Account Opening Deposit"
+"TXN-E5F6G7H8","ACC-1002","DEPOSIT",800.00,800.00,"2026-09-17 10:05:00","Initial Account Opening Deposit"
+"TXN-J9K0L1M2","ACC-1001","DEPOSIT",500.00,2000.00,"2026-09-17 10:15:00","Salary Bonus Credit"
+"TXN-N3P4Q5R6","ACC-1001","WITHDRAWAL",300.00,1700.00,"2026-09-17 10:20:00","Transfer to ACC-1002 (Dinner split)"
+"TXN-S7T8U9V0","ACC-1002","DEPOSIT",300.00,1100.00,"2026-09-17 10:20:00","Transfer from ACC-1001 (Dinner split)"

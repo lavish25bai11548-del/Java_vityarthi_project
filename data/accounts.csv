@@ -1,0 +1,3 @@
+accountType,accountNumber,pinHash,balance,createdAt,active,customerId,customerName,customerEmail,customerPhone,extra1,extra2
+"SAVINGS","ACC-1001","2cab1453379f313e889dff0e9af03d6b72cf7e1d0b6d9e65e04fc26f92d24bf3",1700.00,"2026-09-17 10:00:00",true,"CUST-A101","Alice Johnson","alice@example.com","+1-555-0101","100.0","4.5"
+"CHECKING","ACC-1002","74c8c5671ee4b9178958fe96f07acf4126950753d05628f6b2cb18e40bf30593",1100.00,"2026-09-17 10:05:00",true,"CUST-B202","Bob Smith","bob@example.com","+1-555-0202","500.0","15.0"
